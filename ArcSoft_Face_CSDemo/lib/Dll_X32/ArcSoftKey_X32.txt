@@ -1,0 +1,14 @@
+APP_Id:
+	3yUbUj1c1YKeRuyW616PU8FB1cgei3sFpyqMRBDQVVo6
+
+SDK_key:
+	人脸追踪(FT):
+		FCVQpXhiCm8GGbYxTVUpEc2rHhPg8F7f85jr9SdP5tPv
+	人脸检测(FD):
+		FCVQpXhiCm8GGbYxTVUpEc2yT6evA3stiYN68nDRJ7mG
+	人脸识别(FR):
+		FCVQpXhiCm8GGbYxTVUpEc36cVv5iBCyDsTTyHXYWtg8
+	年龄识别(Age):
+		FCVQpXhiCm8GGbYxTVUpEc3iRWDv75XeUTg29CkH17k7
+	性别识别(Gender):
+		FCVQpXhiCm8GGbYxTVUpEc3qauV679rKs6nhdqHM1zDS
